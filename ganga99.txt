@@ -1,1 +1,3 @@
 ganga build & release
+
+deploye jar file sinto some where 
